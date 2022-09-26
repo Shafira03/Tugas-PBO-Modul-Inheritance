@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\Tugas PBO Modul Inheritance\bin\Debug\net6.0\Tugas PBO Modul Inheritance.exe
+C:\Users\ACER\source\repos\Tugas PBO Modul Inheritance\bin\Debug\net6.0\Tugas PBO Modul Inheritance.deps.json
+C:\Users\ACER\source\repos\Tugas PBO Modul Inheritance\bin\Debug\net6.0\Tugas PBO Modul Inheritance.runtimeconfig.json
+C:\Users\ACER\source\repos\Tugas PBO Modul Inheritance\bin\Debug\net6.0\Tugas PBO Modul Inheritance.dll
+C:\Users\ACER\source\repos\Tugas PBO Modul Inheritance\bin\Debug\net6.0\Tugas PBO Modul Inheritance.pdb
+C:\Users\ACER\source\repos\Tugas PBO Modul Inheritance\obj\Debug\net6.0\Tugas PBO Modul Inheritance.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Tugas PBO Modul Inheritance\obj\Debug\net6.0\Tugas PBO Modul Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\Tugas PBO Modul Inheritance\obj\Debug\net6.0\Tugas PBO Modul Inheritance.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Tugas PBO Modul Inheritance\obj\Debug\net6.0\Tugas PBO Modul Inheritance.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Tugas PBO Modul Inheritance\obj\Debug\net6.0\Tugas PBO Modul Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Tugas PBO Modul Inheritance\obj\Debug\net6.0\Tugas PBO Modul Inheritance.dll
+C:\Users\ACER\source\repos\Tugas PBO Modul Inheritance\obj\Debug\net6.0\refint\Tugas PBO Modul Inheritance.dll
+C:\Users\ACER\source\repos\Tugas PBO Modul Inheritance\obj\Debug\net6.0\Tugas PBO Modul Inheritance.pdb
+C:\Users\ACER\source\repos\Tugas PBO Modul Inheritance\obj\Debug\net6.0\Tugas PBO Modul Inheritance.genruntimeconfig.cache
+C:\Users\ACER\source\repos\Tugas PBO Modul Inheritance\obj\Debug\net6.0\ref\Tugas PBO Modul Inheritance.dll
